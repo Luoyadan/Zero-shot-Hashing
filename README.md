@@ -4,8 +4,7 @@ This is the code for ACM MM paper [Zero-shot hashing via transferring supervised
 
 
 ## Contents
-* This code includes 
- - scripts to implement our proposed algorithm
+* This code includes scripts to implement our proposed algorithm
  
 ## Citation
 
